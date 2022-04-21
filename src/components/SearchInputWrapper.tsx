@@ -12,7 +12,6 @@ export default function SearchInputWrapper() {
     searchMovie();
     try {
       const movies = await search(searchTerm);
-      console.log(movies);
 
       searchDone(movies);
     } catch (error: any) {

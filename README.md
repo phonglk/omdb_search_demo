@@ -11,8 +11,12 @@ The app has one simple feature: search and display the first page of result retu
 
 I follow the guide here to bootstrap the app https://create-react-app.dev/docs/getting-started/
 
-## Future features
+## Future features/fixes
 
+- Unit testing
+  - state/reducer
+  - utils/search
+- Empty result message
 - Pagination
 - Load movie's information
 

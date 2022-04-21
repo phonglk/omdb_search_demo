@@ -10,7 +10,7 @@ type StoreContextValue = {
   dispatch: Dispatch<Action>;
 };
 
-const StoreContext = createContext<StoreContextValue>({
+export const StoreContext = createContext<StoreContextValue>({
   state: initialState,
   dispatch: _.identity,
 });

@@ -80,6 +80,7 @@ export default function SearchInput({
         onKeyDown={handleKeyDown}
         onChange={handleChange}
         disabled={disabled}
+        placeholder="Search title..."
       />
       <Button onClick={handleSearch} disabled={disabled}>
         Search

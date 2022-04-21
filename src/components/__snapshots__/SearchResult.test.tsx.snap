@@ -1,0 +1,70 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Search Result render correctly 1`] = `
+<div>
+  <div
+    class="sc-bczRLJ bjGgPt"
+  >
+    <div
+      class="sc-hKMtZM iyMRBL"
+      style="background-image: url(poster1);"
+    >
+      <div
+        class="sc-gsnTZi eoCyxL"
+      >
+        2019
+      </div>
+      <div
+        class="sc-dkzDqf dNNbLI"
+      >
+        Movie 1
+      </div>
+    </div>
+    <div
+      class="sc-hKMtZM iyMRBL"
+      style="background-image: url(poster2);"
+    >
+      <div
+        class="sc-gsnTZi eoCyxL"
+      >
+        2019
+      </div>
+      <div
+        class="sc-dkzDqf dNNbLI"
+      >
+        Movie 2
+      </div>
+    </div>
+    <div
+      class="sc-hKMtZM iyMRBL"
+      style="background-image: url(poster3);"
+    >
+      <div
+        class="sc-gsnTZi eoCyxL"
+      >
+        2019
+      </div>
+      <div
+        class="sc-dkzDqf dNNbLI"
+      >
+        Movie 3
+      </div>
+    </div>
+    <div
+      class="sc-hKMtZM iyMRBL"
+      style="background-image: url(poster4);"
+    >
+      <div
+        class="sc-gsnTZi eoCyxL"
+      >
+        2019
+      </div>
+      <div
+        class="sc-dkzDqf dNNbLI"
+      >
+        Movie 4
+      </div>
+    </div>
+  </div>
+</div>
+`;
